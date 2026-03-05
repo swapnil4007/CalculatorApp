@@ -8,6 +8,7 @@ public class CalculatorMain {
 		CalculatorUtil calculatorUtil = new CalculatorUtil();
 		System.out.println("Addition ="+ calculatorUtil.addition(5, 7));
 		System.out.println("Substraction ="+ calculatorUtil.substraction(20, 5));
+		System.out.println("Substraction ="+ calculatorUtil.multiplication(10, 10));
 	}
 
 }
